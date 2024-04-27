@@ -4,7 +4,7 @@ require('dotenv').config();
 
 //contact details
 global.ownernumber = [ process.env.OWNER_NUMBER || "0688813246"],
-global.ownername = process.env.OWNER_NAME || "Mo3giza/kroz🦇",
+global.ownername = process.env.OWNER_NAME || "Mo3giza/kroz🦇.",
 global.ytname = "YT: AyushBotz.inc"
 global.socialm = "GitHub: Ayushpandey023"
 global.location = "Indian"
